@@ -1,0 +1,67 @@
+.body{
+    font-size: 18px;
+}
+.header_img{
+    background-image: url(images/image2.jpg);
+    height: 60vh;
+    background-size: cover;
+    text-align: center;
+    padding: 8% 10%;
+}
+.card_container{
+    width: 75vw;
+    margin: 0 auto;
+    padding: 3rem 2rem;
+}
+.share_section{
+    /* height: 1vh; */
+    background-color: black;
+    padding-top: 10%;
+}
+.features_section{
+padding: 5% 10%
+}
+.contact_section{
+    height: 65vh;
+    background-color: #343A40;
+    margin: 0 auto;
+    padding: 3rem 2rem;
+}
+.fas{
+    color: darkturquoise;
+}
+.contact_section_img{
+    background-image: url(images/card4.jpg);
+    height: 50vh;
+    background-size: cover;
+}
+.input_search input{
+    width: 30%;
+    padding: 5px 9px;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa-2x:hover {
+      opacity: 0.7;
+  }
+  
+  .fb {
+    color: #3B5998;
+  }
+  
+  .fa-twitter {
+    color: #55ACEE;
+  }
+  .ins{
+    color: #f40083;
+  }
+  .yt{
+    color: #bb0000;
+  }
